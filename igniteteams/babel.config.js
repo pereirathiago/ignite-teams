@@ -13,7 +13,6 @@ module.exports = function(api) {
             '@routers': './src/routers',
             '@screens': './src/screens',
             '@storages': './src/storages',
-            '@theme': './src/theme',
             '@utils': './src/utils'
           }
         }
